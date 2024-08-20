@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi AI Fans 👋
 
 <!--
 **zhuyin19890308/zhuyin19890308** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- E-mail：zzyIzzf@mail.ustc.edu.cn
+
